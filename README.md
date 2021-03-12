@@ -1,3 +1,7 @@
+#d3graph version
+
+`npm i d3-graphviz@2.6.1`
+
 # D3graph
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
